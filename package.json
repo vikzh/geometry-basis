@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/vikzh/geometry-basis/issues"
   },
-  "homepage": "https://github.com/vikzh/geometry-basis#readme"
+  "homepage": "https://github.com/vikzh/geometry-basis#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.3",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.3.1"
+  }
 }
