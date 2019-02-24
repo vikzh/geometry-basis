@@ -1,3 +1,3 @@
-import {pairCons, cdr, car} from "./pair";
+import { pairCons, cdr, car } from './pair';
 
-export {pairCons, cdr, car};
+export { pairCons, cdr, car };
